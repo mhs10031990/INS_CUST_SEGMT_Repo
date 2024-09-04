@@ -1,0 +1,22 @@
+CARDID,CARDNAME,INTERESTRATE,CREDITLIMIT,ANNUALFEE,REWARDSPROGRAM,INTRODUCTORYAPR,FOREIGNTRANSACTIONFEE,LATEPAYMENTFEE,BALANCETRANSFERFEE,CASHADVANCEFEE,SECURITYDEPOSIT,CARDTYPE
+1,Admin One SavorOne Cash Rewards Credit Card,15.49,6000,0,Bills and Utilities,0,0,39,3,10,0,Unsecured
+2,Recover Cash bank card,13.99,6000,95,Bills and Utilities,0,2.7,39,5,5,0,Unsecured
+3,City Double Cash Card,13.99,5000,0,Entertainment,0,3,39,5,10,0,Unsecured
+4,Blue Cash Preferred Card from Express,11.99,5000,0,Entertainment,0,0,39,3,10,0,Unsecured
+5,Customized Cash Rewards credit card,13.99,5000,0,Entertainment,0,3,39,3,10,0,Unsecured
+6,Admin One Quicksilver Cash Rewards Credit Card,15.49,5000,0,Entertainment,0,0,39,3,10,0,Unsecured
+7,Admin One Platinum Secured Credit Card,26.99,200,0,Dinning,0,0,39,3,10,200,Secured
+8,Phase Sapphire Reserve,16.99,10000,550,Dinning,0,0,39,5,10,0,Unsecured
+9,Recover it Miles,11.99,5000,0,Dinning,0,0,39,3,10,0,Unsecured
+10,Phase Freedom Unlimited,14.99,5000,0,Fuel,0,0,39,5,10,0,Unsecured
+11,Fargo Active Cash Card,14.99,7000,0,Fuel,0,0,37,5,12,0,Unsecured
+12,Phase Sapphire Preferred Card,15.99,5000,95,Fuel,0,0,39,5,10,0,Unsecured
+13,Fargo Reflect Card,12.99,5000,0,Fuel,0,0,37,5,12,0,Unsecured
+14,City Diamond Preferred Card,13.74,5000,0,Retail,0,3,39,5,10,0,Unsecured
+15,Admin One Venture Rewards Credit Card,17.24,10000,95,Travel,0,0,39,3,10,0,Unsecured
+16,Bank Altitude Go Signature Card,14.99,5000,0,Travel,0,0,39,3,10,0,Unsecured
+17,Express Gold Card,0,0,250,Travel,0,0,0,0,0,0,Charge Card
+18,The Platinum Card from Express,0,0,695,Travel,0,0,0,0,0,0,Charge Card
+19,Admin One Travel Rewards Credit Card,15.49,5000,0,Travel,0,0,39,3,10,0,Unsecured
+20,Bank Travel Rewards credit card,13.99,5000,0,Travel,0,0,39,3,10,0,Unsecured
+21,City Miscellaneous Card,14.99,7000,0,Miscellaneous,0,0,37,4,10,50,Unsecured
